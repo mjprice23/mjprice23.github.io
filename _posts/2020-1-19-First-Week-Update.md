@@ -5,7 +5,6 @@ title: First Week Update
 
 ![Me at Nyhavn](/images/post1/nyhavnme.jpg)
 
-test
 Hej from Mal in Copenhagen! I have now officially been here for a little over a week--I arrived last Saturday after a seven hour flight from the East Coast. As I explained in my About section, I wanted to make this blog mainly to stay connected with my friends and family back home, not just in terms of the details of what I’m actually doing, but also with how and what I’m feeling and learning during this experience (wow, that was wordy). I also think the blogging platform is a good way to informally share my experiences with all who are interested while still trying my best to stay present during my time here. I’m not exactly sure yet how often I’ll update it or what I’ll be talking about each time, but I thought I would kick it off with an overview of my first week here as well as the practical details of my program. You can subscribe to it by clicking the button below and you should get it sent to your email whenever I make a new post, or you can just check in whenever you feel like it. I’ll try to share it to Facebook as well. 
 
 ## What I’m doing:
