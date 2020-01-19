@@ -42,6 +42,10 @@ Mal
 
 ![Nyhavn](/images/post1/nyhavn.jpg "Nyhavn")
 
+![Square](/images/post1/squarelit.jpg "Square")
+
+![Cafe](/images/post1/cafe.jpg "Cafe")
+
+![Trampolines](/images/post1/trampolines.jpg "Trampolines")
+
 ![Sunset](/images/post1/sunset.jpg "Sunset")
-
-
