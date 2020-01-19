@@ -16,6 +16,11 @@ Classes only started on Thursday, so I haven’t actually had all of them yet, b
 ## Living situation
 I live in a brand new apartment complex that’s about a 35 minute walk/12 minute bike ride from the campus/center of Copenhagen. It’s on the southern side of the canal, which makes for a pretty commute. I live in an Outdoor LLC, which means I live with a group of other DIS girls and we take part in an outdoorsy activity each week. We do things like winterbathing, ice skating, a retreat, etc. My apartment has six girls, and there are two other apartments in the building with six girls in each as well. My direct roommate here, Arie, goes to George Washington, also in DC. There are a few grocery stores within a couple blocks of my apartment, which is very lucky, although as someone who basically lived within the aisles of Trader Joe’s last semester I really miss my snacks. I can either commute to school using the bus, walking, biking, or a combination. Some of you might know that Copenhagen is a HUGE biking city. It’s by far the most popular mode of transportation here, and the city has been used as a model for livable urban planning in other cities. There are *no* Ubers here, which is a big adjustment for a Georgetown kid. I guess I’m about to (hopefully?) become a very confident cycling commuter.
 
+![My room](/images/post1/bed.jpg "My room")
+
+![My living room](/images/post1/livingroom.jpg "My living room")
+
+![My kitchen](/images/post1/nyhavnme.jpg "My kitchen")
 
 ## Some early observations, notes, and reflections:
 The climate here is similar to that of the Pacific Northwest (lotsa rain and it gets dark around 4pm right now). I’ve made a point during this first week to go for a run even when it’s raining for two reasons: if I only explore in sunny weather then I likely will not see very much of Copenhagen at all, and since I’ve already found some really cool places while running in the rain I’ve started associating rainy days with excitement and exploring. Running always makes me feel more settled, both within myself and a new city. It’s how I helped with the adjustment to moving to DC three years ago, and it’s been a great way to kick off my time her in Copenhagen. I found the sidewalk trampolines by myself earlier this week and was *so* excited.
