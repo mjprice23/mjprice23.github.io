@@ -40,3 +40,8 @@ This has been long enough, so I’ll sign off for now. Reach out to me at anytim
 Love,
 Mal
 
+![Nyhavn](/images/post1/nyhavn.jpg "Nyhavn")
+
+![Sunset](/images/post1/sunset.jpg "Sunset")
+
+
