@@ -20,7 +20,7 @@ I live in a brand new apartment complex that’s about a 35 minute walk/12 minut
 
 ![My living room](/images/post1/livingroom.jpg "My living room")
 
-![My kitchen](/images/post1/nyhavnme.jpg "My kitchen")
+![My kitchen](/images/post1/kitchen.jpg "My kitchen")
 
 ## Some early observations, notes, and reflections:
 The climate here is similar to that of the Pacific Northwest (lotsa rain and it gets dark around 4pm right now). I’ve made a point during this first week to go for a run even when it’s raining for two reasons: if I only explore in sunny weather then I likely will not see very much of Copenhagen at all, and since I’ve already found some really cool places while running in the rain I’ve started associating rainy days with excitement and exploring. Running always makes me feel more settled, both within myself and a new city. It’s how I helped with the adjustment to moving to DC three years ago, and it’s been a great way to kick off my time her in Copenhagen. I found the sidewalk trampolines by myself earlier this week and was *so* excited.
