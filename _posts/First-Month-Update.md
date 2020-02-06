@@ -15,7 +15,6 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 **Spent a Saturday in Malmö, Sweden (a 30 minute train ride away from Copenhagen).**
 
-![Mal in Malmö](/images/post2/windmill.jpeg "Mal in Malmö")
 
 ![Malmö](/images/post2/malmo.jpeg "Malmö")
 
@@ -24,7 +23,11 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ![Dyrehaven](/images/post2/dyrehaven.jpeg "Dyrehaven")
 
-![My kitchen](/images/post1/kitchen.jpg "My kitchen")
+![BRUNCH](/images/post2/brunch.jpeg "BRUNCH")
+
+![Pals](/images/post2/pals.jpeg "Pals")
+
+![Somewhere in South Denmark](/images/post2/somewhere.jpeg "Somewhere in South Denmark")
 
 ## Some things I'm noticing
 
@@ -37,6 +40,8 @@ Mal
 
 ![Countryside](/images/post2/country.jpeg "Danish countryside")
 
+![Copenhagen](/images/post2/mirrors.jpeg "Copenhagen")
+
 ![Copenhagen](/images/post2/alley.jpeg "Copenhagen")
 
 ![Islands Brygge](/images/post2/brygge.jpeg "Near my apartment")
@@ -45,7 +50,19 @@ Mal
 
 ![Superkilen](/images/post2/swirls.jpeg "Superkilen")
 
+![Rainbow](/images/post2/rainbow.jpeg "Rainbow")
+
+![Lemon Tree](/images/post2/lemon.jpeg "Lemon Tree")
+
 ![Hearts](/images/post2/hearts.jpeg "Hearts in Malmö")
 
-![Selfie](/images/post2/selfie.jpeg "Selfie")
+![Mal in Malmö](/images/post2/windmill.jpeg "Mal in Malmö")
+
+![Window](/images/post2/window.jpeg "Window")
+
+![Boy Sculpture in ARoS](/images/post2/boy.jpeg "Boy Sculpture in ARoS")
+
+![What I'm Trying to Do Here](/images/post2/worry.jpeg "Don't Worry")
+
+![Sunset](/images/post2/cotton.jpeg "Sunset")
 
