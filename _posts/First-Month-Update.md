@@ -35,15 +35,17 @@ I have a lot to look forward to over the next month: I’m visiting Liz in Dubli
 Love,
 Mal
 
-![Nyhavn](/images/post1/nyhavn.jpg "Nyhavn")
+![Countryside](/images/post2/country.jpeg "Danish countryside")
 
-![Square](/images/post1/squarelit.jpg "Square")
+![Copenhagen](/images/post2/alley.jpeg "Copenhagen")
 
-![Cafe](/images/post1/cafe.jpg "Cafe")
+![Islands Brygge](/images/post2/brygge.jpeg "Near my apartment")
+ 
+![Canal Tour](/images/post2/tour.jpeg "Canal Tour")
 
-![Round Tower](/images/post1/roundtower.jpg "Round Tower")
+![Superkilen](/images/post2/swirls.jpeg "Superkilen")
 
-![Trampolines](/images/post1/trampolines.jpg "Trampolines")
+![Hearts](/images/post2/hearts.jpeg "Hearts in Malmö")
 
-![Sunset](/images/post1/sunset.jpg "Sunset")
+![Selfie](/images/post2/selfie.jpeg "Selfie")
 
