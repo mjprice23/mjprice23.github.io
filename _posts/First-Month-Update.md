@@ -40,9 +40,11 @@ Mal
 
 ![Countryside](/images/post2/country.jpeg "Danish countryside")
 
-![Copenhagen](/images/post2/mirrors.jpeg "Copenhagen")
+![Copenhagen](/images/post2/mirror.jpeg "Copenhagen")
 
 ![Copenhagen](/images/post2/alley.jpeg "Copenhagen")
+
+![Friends](/images/post2/IMG_5843.jpeg "Friends")
 
 ![Islands Brygge](/images/post2/brygge.jpeg "Near my apartment")
  
