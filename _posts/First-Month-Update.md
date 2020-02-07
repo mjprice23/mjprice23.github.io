@@ -36,13 +36,13 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ## Some things I'm thinking about
 
-I’ve been going back and forth with how deep this blog should go in terms of my cultural observations ramblings. I’m sure many of you are mainly curious about the logistical details of what I’m doing, seeing cool pictures, and just generally making sure I’m having a good time (I am!). I’ve been struggling with how to best articulate and share what I’m noticing in terms of cultural differences without making gross generalizations or coming across as ignorant, especially to those who have spent much more time traveling in Europe than I have. But the point of studying abroad really isn’t merely to take pretty pictures. I think a huge part of it is to actively engage, emotionally and intellectually, with another culture, no matter how Western/similar it may be to your own. While I’m doing a lot of personal journaling while I’m here, I think there’s definitely value in more publicly sharing what I’m learning as well. So before I start that, a disclaimer: 
+I’ve been going back and forth with how deep this blog should go in terms of my cultural ~~ramblings~~ observations. I’m sure many of you are mainly curious about the logistical details of what I’m doing, seeing cool pictures, and just generally making sure I’m having a good time (I am!). I’ve been struggling with how to best articulate and share what I’m noticing in terms of cultural differences without making gross generalizations or coming across as ignorant, especially to those who have spent much more time traveling in Europe than I have. But the point of studying abroad really isn’t merely to take pretty pictures. I think a huge part of it is to actively engage, emotionally and intellectually, with another culture, no matter how Western/similar it may be to your own. While I’m doing a lot of personal journaling while I’m here, I think there’s definitely value in more publicly sharing what I’m learning as well. So before I start that, a disclaimer: 
 
-*I’ve only been here a month.
-*I am by no means an expert in Danish history/culture/politics.
-*I’m in a program with only Americans, and there is a ton in terms of Danish culture that I have not and likely will not experience because I am an outsider, looking in. My background as an American gives me a perspective that’s inherently biased and hard to shake or rethink.
-*Making generalizations (while necessary) is frankly a tricky endeavour, because there are always exceptions to the rules in both good and bad ways.
-*My experiences are mine, and (this goes without saying) ((gonna say it anyway)) I can’t speak for everyone, both here and in the US.
+* I’ve only been here a month.
+* I am by no means an expert in Danish history/culture/politics.
+* I’m in a program with only Americans, and there is a ton in terms of Danish culture that I have not and likely will not experience because I am an outsider, looking in. My background as an American gives me a perspective that’s inherently biased and hard to shake or rethink.
+* Making generalizations (while necessary) is frankly a tricky endeavour, because there are always exceptions to the rules in both good and bad ways.
+* My experiences are mine, and (this goes without saying) ((gonna say it anyway)) I can’t speak for everyone, both here and in the US.
 
 Yeah, I warned you this would be a lot of rambling.
 
