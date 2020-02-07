@@ -23,9 +23,9 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ![Dyrehaven](/images/post2/dyrehaven.jpeg "Dyrehaven")
 
->**I’ve gone through two bikes due to flat tires (the second one happened on the way to the bar). Let’s hope my current bike is “third time’s the charm” and not “three strikes you’re out.”
+>**I’ve gone through two bikes due to flat tires (the second one happened on the way to the bar). Let’s hope my current bike is “third time’s the charm” and not “three strikes you’re out.”**
 
->**Lost one of my nice North Face gloves while walking between classes. This might not seem like a big deal, but when I was little I lost my sock in a grocery store and apparently cried for days. My mom also gave me the gloves for Christmas and they were doing such a good job of keeping my hands cozy so I was very sad. Projection much? Anyway, I was so upset that I immediately ran to class, ordered the exact same pair online from a random Danish outdoor company, and then ran four miles to pick them up from a random parcel distribution site a few days later. 
+* **Lost one of my nice North Face gloves while walking between classes. This might not seem like a big deal, but when I was little I lost my sock in a grocery store and apparently cried for days. My mom also gave me the gloves for Christmas and they were doing such a good job of keeping my hands cozy so I was very sad. Projection much? Anyway, I was so upset that I immediately ran to class, ordered the exact same pair online from a random Danish outdoor company, and then ran four miles to pick them up from a random parcel distribution site a few days later. **
 
 >**Visited with my visiting host family! If you don’t live in a homestay, you have the option to sign up for a visiting host, a Danish family that you can get together with for a meal or an activity a few times a month. Joan and Peter have been wonderful to spend time with and have been so welcoming to me and two other DIS girls.**
 
