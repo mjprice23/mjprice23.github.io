@@ -44,7 +44,7 @@ Mal
 
 ![Copenhagen](/images/post2/alley.jpeg "Copenhagen")
 
-![Friends](/images/post2/IMG_5843.jpeg "Friends")
+![Friends](/images/post2/selfie.jpeg "Friends")
 
 ![Islands Brygge](/images/post2/brygge.jpeg "Near my apartment")
  
