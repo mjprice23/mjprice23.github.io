@@ -34,7 +34,7 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ![Somewhere in South Denmark](/images/post2/somewhere.jpeg "Somewhere in South Denmark")
 
-## Some things I'm noticing
+## Some things I'm thinking about
 
 ![BRUNCH](/images/post2/brunch.jpeg "BRUNCH")
 
