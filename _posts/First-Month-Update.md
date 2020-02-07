@@ -36,6 +36,18 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ## Some things I'm thinking about
 
+I’ve been going back and forth with how deep this blog should go in terms of my cultural observations ramblings. I’m sure many of you are mainly curious about the logistical details of what I’m doing, seeing cool pictures, and just generally making sure I’m having a good time (I am!). I’ve been struggling with how to best articulate and share what I’m noticing in terms of cultural differences without making gross generalizations or coming across as ignorant, especially to those who have spent much more time traveling in Europe than I have. But the point of studying abroad really isn’t merely to take pretty pictures. I think a huge part of it is to actively engage, emotionally and intellectually, with another culture, no matter how Western/similar it may be to your own. While I’m doing a lot of personal journaling while I’m here, I think there’s definitely value in more publicly sharing what I’m learning as well. So before I start that, a disclaimer: 
+
+*I’ve only been here a month.
+*I am by no means an expert in Danish history/culture/politics.
+*I’m in a program with only Americans, and there is a ton in terms of Danish culture that I have not and likely will not experience because I am an outsider, looking in. My background as an American gives me a perspective that’s inherently biased and hard to shake or rethink.
+*Making generalizations (while necessary) is frankly a tricky endeavour, because there are always exceptions to the rules in both good and bad ways.
+*My experiences are mine, and (this goes without saying) ((gonna say it anyway)) I can’t speak for everyone, both here and in the US.
+
+Yeah, I warned you this would be a lot of rambling.
+
+That being said, here goes nothing:
+
 ![BRUNCH](/images/post2/brunch.jpeg "BRUNCH")
 
 If you got through all that, thank you. This post has gotten way too long but I’m glad I’m documenting my thoughts now so I can further reflect on them and my evolving perspectives later on in the semester and beyond. I’ve definitely adjusted to my new life here, but there are still moments where everything seems surreal in a disconcerting, out-of-body way. I think that’s an important aspect of being here. It keeps me on my toes and it encourages me to constantly reflect. I’m trying to work on not judging my feelings, and just letting them come and go through high-highs and low-lows. I tend to become complacent at Georgetown, going through the motions until the semester is over and I panic over the fleeting nature of time and the preciousness of college. Here, as Ferris Bueller would say, I’m stopping and looking around more than every once in a while. 
