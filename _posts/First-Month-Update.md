@@ -29,10 +29,21 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 >**Visited with my visiting host family! If you don’t live in a homestay, you have the option to sign up for a visiting host, a Danish family that you can get together with for a meal or an activity a few times a month. Joan and Peter have been wonderful to spend time with and have been so welcoming to me and two other DIS girls.**
 
+>**Went on a two day retreat with my Outdoor LLC. We took a two-hour train ride to Lolland-Falster (islands in Southern Denmark) where we went mountain-biking, winterbathing, regular road-biking but on mountain bikes, stayed at a youth-center sort of place, and overall had a refreshing weekend away from Copenhagen.**
+
+>**I just got back this evening from my Core Course week. No one had classes this past week. Instead, you spent two days in Copenhagen and then took a 3 day trip to elsewhere in Denmark, Sweden, or Germany. My Neural Networks class visited a Copenhagen startup on Tuesday, and then we took a bus to Aarhus, Denmark where we visited a couple companies doing distinct but very interesting machine learning work related to wind power. We also did some museum visits (ARoS was incredible) as well as visit to the LEGO House (LEGO is a Danish company, and the House is in the town where it was started). Being there really brings out everyone’s inner kid, and I’m especially grateful that DIS provided us with the opportunity to visit (pics below, including a photo of the NBA set that Kobe happens to be in). I really enjoyed getting to know the other kids in my class as well as our professor, and I think that this program does a great job of planning a semester that allows us to get back to learning for fun, in and out of the classroom. Not everything we did this week was related to comp sci, but I learned a lot about Denmark along the way and had fun while doing it.**
 
 ![Pals](/images/post2/pals.jpeg "Pals")
 
-![Somewhere in South Denmark](/images/post2/somewhere.jpeg "Somewhere in South Denmark")
+![Lego House](/images/post2/lego.jpeg "Lego House")
+
+![Lego Me](/images/post2/legome.jpeg "Lego Mal")
+
+![Lego London](/images/post2/legolondon.jpeg "Lego London")
+
+![Kobe](/images/post2/kobe.jpeg "Kobe")
+
+Related to that, being in Denmark and taking these computer science classes has already granted me space to appreciate and think deeply about my field of study. I’ve always liked CS since I got into it at Georgetown, but being here has allowed me to tap into a pure enjoyment of learning that can be difficult to find at Georgetown when you’re constantly coding and studying under a lot of pressure. The field that I’m in is incredibly fascinating with so many future possibilities and opportunities, both for the world as well as me specifically. I’m really excited for my internship this summer, and also just really excited to continue to learn more about CS, this semester and beyond. To summarize, I’m confident I picked the right major: I'm passionate about it, and being here reassures me of that.
 
 ## Some things I'm thinking about
 
