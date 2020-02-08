@@ -29,6 +29,8 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 >**Went on a two day retreat with my Outdoor LLC. We took a two-hour train ride to Lolland-Falster (islands in Southern Denmark) where we went mountain-biking, winterbathing, regular road-biking but on mountain bikes, stayed at a youth-center sort of place, and overall had a refreshing weekend away from Copenhagen.**
 
+!(/images/post2/somewhere.jpeg "Somewhere in Southern Denmark")
+
 >**I just got back this evening from my Core Course week. No one had classes this past week. Instead, you spent two days in Copenhagen and then took a 3 day trip to elsewhere in Denmark, Sweden, or Germany. My Neural Networks class visited a Copenhagen startup on Tuesday, and then we took a bus to Aarhus, Denmark where we visited a couple companies doing distinct but very interesting machine learning work related to wind power. We also did some museum visits (ARoS was incredible) as well as visit to the LEGO House (LEGO is a Danish company, and the House is in the town where it was started). Being there really brings out everyone’s inner kid, and I’m especially grateful that DIS provided us with the opportunity to visit (pics below, including a photo of the NBA set that Kobe happens to be in). I really enjoyed getting to know the other kids in my class as well as our professor, and I think that this program does a great job of planning a semester that allows us to get back to learning for fun, in and out of the classroom. Not everything we did this week was related to comp sci, but I learned a lot about Denmark along the way and had fun while doing it.**
 
 ![Pals](/images/post2/pals.jpeg "Pals")
