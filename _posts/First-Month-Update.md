@@ -35,13 +35,13 @@ Hello world! I’m a month into my Copenhagen experience and I’m thinking that
 
 ![Pals](/images/post2/pals.jpeg "Pals")
 
-![Lego House](/images/post2/lego.jpeg "Lego House")
+![Lego House](/images/post2/lego.jpg "Lego House")
 
-![Lego Me](/images/post2/legome.jpeg "Lego Mal")
+![Lego Me](/images/post2/legome.jpg "Lego Mal")
 
-![Lego London](/images/post2/legolondon.jpeg "Lego London")
+![Lego London](/images/post2/legolondon.jpg "Lego London")
 
-![Kobe](/images/post2/kobe.jpeg "Kobe")
+![Kobe](/images/post2/kobe.jpg "Kobe")
 
 Related to that, being in Denmark and taking these computer science classes has already granted me space to appreciate and think deeply about my field of study. I’ve always liked CS since I got into it at Georgetown, but being here has allowed me to tap into a pure enjoyment of learning that can be difficult to find at Georgetown when you’re constantly coding and studying under a lot of pressure. The field that I’m in is incredibly fascinating with so many future possibilities and opportunities, both for the world as well as me specifically. I’m really excited for my internship this summer, and also just really excited to continue to learn more about CS, this semester and beyond. To summarize, I’m confident I picked the right major: I'm passionate about it, and being here reassures me of that.
 
